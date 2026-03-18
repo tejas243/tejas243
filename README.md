@@ -16,7 +16,7 @@
 ## 🏆 Open Source Contributions
 - ✅ Audited all **20 mesa-examples** completely
 - ✅ Found **7 broken examples** with specific errors
-- ✅ Submitted **10+ Pull Requests** to Mesa project
+- ✅ Submitted **16+ Pull Requests** to Mesa project
 - ✅ Working directly with core Mesa maintainers
 
 ### My Mesa PRs:
@@ -32,6 +32,11 @@
 | #399 | add requirements.txt — humanitarian_aid |
 | #400 | add requirements.txt — rumor_mill |
 | #401 | add requirements.txt — boltzmann |
+| #404 | add screenshot — forest_fire |
+| #405 | add screenshot — color_patches |
+| #406 | add screenshot — virus_antibody |
+| #407 | add screenshot — bank_reserves |
+| #408 | add screenshot — warehouse |
 
 ---
 
