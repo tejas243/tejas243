@@ -37,6 +37,12 @@
 | #406 | add screenshot — virus_antibody |
 | #407 | add screenshot — bank_reserves |
 | #408 | add screenshot — warehouse |
+| #411 | add screenshot — deffuant_weisbuch |
+| #412 | add screenshot — humanitarian_aid |
+| #413 | add screenshot — rumor_mill |
+| #414 | add screenshot — boltzmann_wealth |
+| #415 | add screenshot — aco_tsp |
+| #402 | fix: el_farol notebook parameter name |
 
 ---
 
