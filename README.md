@@ -16,7 +16,7 @@
 ## 🏆 Open Source Contributions
 - ✅ Audited all **20 mesa-examples** completely
 - ✅ Found **7 broken examples** with specific errors
-- ✅ Submitted **16+ Pull Requests** to Mesa project
+- ✅ Submitted **21+ Pull Requests** to Mesa project
 - ✅ Working directly with core Mesa maintainers
 
 ### My Mesa PRs:
